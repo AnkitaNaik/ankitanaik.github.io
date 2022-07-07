@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Ajay Unagar</title>
+    <link>https://aunagar.github.io/tag/reinforcement-learning/</link>
+      <atom:link href="https://aunagar.github.io/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://aunagar.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinforcement Learning</title>
+      <link>https://aunagar.github.io/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Learning to calibrate battery models using Deep Reinforcement Learning</title>
+      <link>https://aunagar.github.io/project/rlbattery/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://aunagar.github.io/project/rlbattery/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Lithium-Ion (Li-I) batteries are used in many physical assets. To enable a good prediction of the end of discharge of batteries, detailed electrochemical Li-I battery models have been developed. However, these battery models need to be calibrated regularly as the batteries degrade. In this paper, we implement a model-free Reinforcement Learning-based framework for reliably and efficiently inferring calibration parameters of battery models. The framework enables real-time inference of the battery degradation parameters in order to compensate the reality-gap from the observations. Most importantly, the proposed methodology does not need any labeled data samples, (samples of observations and the ground truth calibration parameters). Furthermore, to increase the stability of the parameter inference, we incorporate lyapunov energy decreasing condition as a regularizer for our policy network objective. Lyapunov regularizer enables that the inference tracking of the parameters converges to an optimal, no matter the initial condition. The experiments show impressive results compared to Kalman Filter-based approaches. Moreover, this framework is highly general and can be employed in calibration of other computational models.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Battery Model Calibration with Deep Reinforcement Learning</title>
+      <link>https://aunagar.github.io/publication/neurips2020/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://aunagar.github.io/publication/neurips2020/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
