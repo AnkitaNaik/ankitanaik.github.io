@@ -1,0 +1,70 @@
+---
+title: "Knowledge Base Question Answering by Case-based Reasoning over Subgraphs"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- Rajarshi Das
+- Ameya Godbole
+- admin
+- Elliot Tower
+- Robin Jia
+- Manzil Zaheer
+- Hannaneh Hajishirzi
+- Andrew McCallum
+
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
+date: "2022-07-17T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2012-07-17T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: In Proceedings of the 39th *International Conference on Machine Learning*
+publication_short: In *ICML 2022*
+
+abstract: Question answering (QA) over knowledge bases (KBs) is challenging because of the diverse, essentially unbounded, types of reasoning patterns needed. However, we hypothesize in a large KB, reasoning patterns required to answer a query type reoccur for various entities in their respective subgraph neighborhoods. Leveraging this structural similarity between local neighborhoods of different subgraphs, we introduce a semiparametric model (CBR-SUBG) with (i) a nonparametric component that for each query, dynamically retrieves other similar k-nearest neighbor (KNN) training queries along with query-specific subgraphs and (ii) a parametric component that is trained to identify the (latent) reasoning patterns from the subgraphs of KNN queries and then apply them to the subgraph of the target query. We also propose an adaptive subgraph collection strategy to select a query-specific compact subgraph, allowing us to scale to full Freebase KB containing billions of facts. We show that CBR-SUBG can answer queries requiring subgraph reasoning patterns and performs competitively with the best models on several KBQA benchmarks. Our subgraph collection strategy also produces more compact subgraphs (e.g. 55\% reduction in size for WebQSP while increasing answer recall by 4.85\%)
+
+# Summary. An optional shortened abstract.
+summary: Question Answering, Knowledge Representation
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://arxiv.org/pdf/2202.10610'
+url_code: 'https://github.com/rajarshd/cbr-subg'
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- example
+---

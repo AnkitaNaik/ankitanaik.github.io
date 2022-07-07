@@ -1,0 +1,28 @@
+---
+title: Biomedical Applications
+summary: This page summarizes the various biomedical projects completed during the two years at the Data Science Lab at ZS Assocaites.
+tags:
+- Biomedical NLP
+- Clinical Machine Learning
+- Consulting
+date: "2017-07-01T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
+ZS is a healthcare consulting company which devises ML-oriented solutions for Sales and Marketing problems of Pharma companies like Amgen, Novartis, Pfizer. <br /> <br /> At the Data Science Lab at ZS Associates, I have worked on gamut of projects ranging from application of NLP and Deep Learning techniques for social media data (Twitter), patient medical history data to using statistical machine learning for dynamic sales targeting and clinical trial optimizations. During the same, I have proficiently worked in R and Python (PyTorch, Tensorflow, Keras, PuLP – Optimization, Scikit-Learn, NLTK, Gensim).

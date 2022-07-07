@@ -1,0 +1,78 @@
+---
+# Display name
+title: Ankita Rajaram Naik
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: M.S. in Computer Science
+
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: University of Massachusetts Amherst
+  url: https://www.cics.umass.edu/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include knowledge representation leanring and Biomedical applications of NLP.
+
+# Interests to show in About widget
+interests:
+- Knowledge Representation
+- Knowledge Graph Reasoning
+- Biomedical Natural Language Processing
+
+# Education to show in About widget
+education:
+  courses:
+  - course: M.S. in Computer Science
+    institution: University of Massachusetts Amherst
+    year: 2022
+  - course: BTech in Metallurgical Engineering (Minor in Operations Research)
+    institution: Indian Institute of Technology Madras
+    year: 2017
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ankita_naik1210
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=dKZ_AVYAAAAJ&hl=en&oi=sra
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AnkitaNaik
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/naik-ankita/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: arnaik@umass.edu
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
+<div style="text-align: justify">
+I'm a final year master student at the <a href="https://www.cics.umass.edu/">University of Massachusetts Amherst</a> with 4+ years of experience working in Natural Language Processing.<br>
+<br>
+My most recent projects are focused on <u>Knowledge Graph Reasoning</u> for Question Answering and Graph Completion; <u>Retrieval models</u> for knowledge bases and tables; and <u>Biomedical Applications of NLP</u> with research publications in leading conference such as AAAI, NAACL and ICML. At UMass Amherst, I primarily worked with <a href="https://people.cs.umass.edu/~mccallum/">Prof. Andrew Mccallum</a> and <a href="https://rajarshd.github.io/">Rajarshi Das</a> at Information Extraction and Synthesis Lab <a href="http://www.iesl.cs.umass.edu/people">(IESL)</a>.
+I also interned with the Knowledge Induction Group at <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=7140">IBM Research AI</a> under the mentorship of <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-mrglass">Michael Glass</a> and <a href = "https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo"> Alfio Gloizzo</a>. Moreover, I have also worked with researchers at GE Healthcare and Walmart while receiving my MS in Computer Science.<br>
+<br>
+Before starting my masters, I finished my undergraduate at <a href="https://www.iitm.ac.in/">IIT Madras</a> in India. Just after my undergraduate, I worked at <a href="https://www.zs.com/">ZS Associates</a> as a Data Scientist for 2 years where I focused on Biomedical problems such as disease progression modeling, sales targeting and clinical trial optimizations.</div>
+<br>
+
+{{< icon name="download" pack="fas" >}} Looking for full-time positions in Natural Language Processing. Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
