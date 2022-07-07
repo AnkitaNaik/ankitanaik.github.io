@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical Machine Learning | Academic</title>
+    <link>https://example.com/tag/clinical-machine-learning/</link>
+      <atom:link href="https://example.com/tag/clinical-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clinical Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Clinical Machine Learning</title>
+      <link>https://example.com/tag/clinical-machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Biomedical Applications</title>
+      <link>https://example.com/project/biomedicalapplications/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/biomedicalapplications/</guid>
+      <description>&lt;p&gt;ZS is a healthcare consulting company which devises ML-oriented solutions for Sales and Marketing problems of Pharma companies like Amgen, Novartis, Pfizer. &lt;br /&gt; &lt;br /&gt; At the Data Science Lab at ZS Associates, I have worked on gamut of projects ranging from application of NLP and Deep Learning techniques for social media data (Twitter), patient medical history data to using statistical machine learning for dynamic sales targeting and clinical trial optimizations. During the same, I have proficiently worked in R and Python (PyTorch, Tensorflow, Keras, PuLP – Optimization, Scikit-Learn, NLTK, Gensim).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

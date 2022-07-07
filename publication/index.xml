@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Base Question Answering by Case-based Reasoning over Subgraphs</title>
+      <link>https://example.com/publication/cbrsubg/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cbrsubg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re2G: Retrieve, Rerank, Generate</title>
+      <link>https://example.com/publication/re2g/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/re2g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow-uwnet: Compressed model for underwater image enhancement (student abstract)</title>
+      <link>https://example.com/publication/shallowuwnet/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shallowuwnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Knowledge Distillation for Efficient on-device Deployment of Deep Learning Models in Medical Imaging</title>
+      <link>https://example.com/publication/knowledgedistillation/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/knowledgedistillation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
