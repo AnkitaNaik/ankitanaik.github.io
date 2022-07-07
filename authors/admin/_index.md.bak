@@ -6,7 +6,7 @@ title: Ankita Rajaram Naik
 superuser: true
 
 # Role/position/tagline
-role: M.S. / Ph.D. in Computer Science
+role: M.S. in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,4 +75,4 @@ I also interned with the Knowledge Induction Group at <a href="https://researche
 Before starting my masters, I finished my undergraduate at <a href="https://www.iitm.ac.in/">IIT Madras</a> in India. Just after my undergraduate, I worked at <a href="https://www.zs.com/">ZS Associates</a> as a Data Scientist for 2 years where I focused on Biomedical problems such as disease progression modeling, sales targeting and clinical trial optimizations.</div>
 <br>
 
-{{< icon name="download" pack="fas" >}} Looking for full-time positions in Natural Language Processing. Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Looking for full-time positions in Natural Language Processing. Download my {{< staticref "/static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
