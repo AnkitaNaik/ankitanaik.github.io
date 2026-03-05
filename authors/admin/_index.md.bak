@@ -6,19 +6,19 @@ title: Ankita Rajaram Naik
 superuser: true
 
 # Role/position/tagline
-role: M.S. in Computer Science
+role: Research Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Massachusetts Amherst
-  url: https://www.cics.umass.edu/
+- name: IBM Research
+  url: https://research.ibm.com/people/ankita-naik--1
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include knowledge representation leanring and Biomedical applications of NLP.
+bio: My research interests include Question Answering, knowledge representation learning and Biomedical applications of NLP.
 
 # Interests to show in About widget
 interests:
-- Knowledge Representation
+- Question Answering
 - Knowledge Graph Reasoning
 - Biomedical Natural Language Processing
 
@@ -67,7 +67,8 @@ email: arnaik@umass.edu
 highlight_name: true
 ---
 <div style="text-align: justify">
-I'm a final year master student at the <a href="https://www.cics.umass.edu/">University of Massachusetts Amherst</a> with 4+ years of experience working in Natural Language Processing.<br>
+I am currently a researcher at IBM Research, working on the Conversational AI WatsonX Assistant chatbot. I was previously a student at UMass Amherst with 4+ years of experience working on Natural Language Processing.<br>
+
 <br>
 My most recent projects are focused on <u>Knowledge Graph Reasoning</u> for Question Answering and Graph Completion; <u>Retrieval models</u> for knowledge bases and tables; and <u>Biomedical Applications of NLP</u> with research publications in leading conference such as AAAI, NAACL and ICML. At UMass Amherst, I primarily worked with <a href="https://people.cs.umass.edu/~mccallum/">Prof. Andrew Mccallum</a> and <a href="https://rajarshd.github.io/">Rajarshi Das</a> at Information Extraction and Synthesis Lab <a href="http://www.iesl.cs.umass.edu/people">(IESL)</a>.
 I also interned with the Knowledge Induction Group at <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=7140">IBM Research AI</a> under the mentorship of <a href="https://researcher.watson.ibm.com/researcher/view.php?person=us-mrglass">Michael Glass</a> and <a href = "https://researcher.watson.ibm.com/researcher/view.php?person=us-gliozzo"> Alfio Gloizzo</a>. Moreover, I have also worked with researchers at GE Healthcare and Walmart while receiving my MS in Computer Science.<br>
