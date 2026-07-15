@@ -5,12 +5,37 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    <item>
+  <title>Live API-Bench: 2500+ Live APIs for Testing Multi-step Tool Calling</title>
+  <link>https://example.com/publication/live-api-bench/</link>
+  <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+  <guid>https://example.com/publication/live-api-bench/</guid>
+  <description></description>
+</item>
+
+    <item>
+  <title>Retrieval-based Transformer for Table Augmentation</title>
+  <link>https://example.com/publication/retrieval-table-augmentation/</link>
+  <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+  <guid>https://example.com/publication/retrieval-table-augmentation/</guid>
+  <description></description>
+</item>
+
+    <item>
+  <title>Retrieval-based, Self-supervised Augmentation Using Transformer Models</title>
+  <link>https://example.com/publication/retrieval-self-supervised-augmentation-patent/</link>
+  <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+  <guid>https://example.com/publication/retrieval-self-supervised-augmentation-patent/</guid>
+  <description></description>
+</item>
+
+    
     
     <item>
       <title>Knowledge Base Question Answering by Case-based Reasoning over Subgraphs</title>
